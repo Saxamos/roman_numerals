@@ -1,0 +1,11 @@
+[
+  "test_converter.py::TestConvert::()::test_raise_error_if_number_not_int",
+  "test_converter.py::TestConvert::()::test_raise_error_if_lower_than_1",
+  "test_converter.py::TestConvert::()::test_raise_error_if_greater_than_2999",
+  "test_converter.py::TestConvert::()::test_return_associated_roman_number_when_number_with_1_given",
+  "test_converter.py::TestConvert::()::test_return_associated_roman_number_when_number_with_2_or_3_given",
+  "test_converter.py::TestConvert::()::test_return_associated_roman_number_when_number_with_4_given",
+  "test_converter.py::TestConvert::()::test_return_associated_roman_number_when_number_with_5_given",
+  "test_converter.py::TestConvert::()::test_return_associated_roman_number_when_number_with_6_7_or_8_given",
+  "test_converter.py::TestConvert::()::test_return_associated_roman_number_when_number_with_9_given"
+]
